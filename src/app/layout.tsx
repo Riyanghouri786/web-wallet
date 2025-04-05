@@ -10,10 +10,11 @@ import { Providers } from "./providers";
 const open_sans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Next-Web3-Boilerplate",
-  applicationName: "Next Web3 Boilerplate",
-  description: "Next.js Web3 boilerplate built on Wagmi, Viem, and Rainbow",
-  authors: { name: "Pedrojok01", url: "https://github.com/Pedrojok01/Next-Web3-Boilerplate" },
+  title: "Web-Wallet",
+  keywords: ["web3", "wallet", "nextjs", "wagmi", "rainbowkit"],
+  applicationName: "Web-Wallet",
+  description: "Only for testing purposes to create a web3 wallet. Build by Riyan Ghouri.",
+  authors: { name: "Riyanghouri786", url: "https://github.com/Riyanghouri786/web-wallet" },
   icons: "favicon.ico",
   manifest: "site.webmanifest",
 };
